@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24921" started-at="2019-05-19T11:31:41Z" finished-at="2019-05-19T11:32:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24921" started-at="2019-05-19T11:31:41Z" finished-at="2019-05-19T11:32:06Z">
+      <class name="testcase.SearchMobile">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcase.SearchMobile@3c0ecd4b]" name="setup" is-config="true" duration-ms="942" started-at="2019-05-19T17:01:40Z" finished-at="2019-05-19T17:01:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testcase.SearchMobile@3c0ecd4b]" name="login" duration-ms="24903" started-at="2019-05-19T17:01:41Z" finished-at="2019-05-19T17:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- testcase.SearchMobile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
